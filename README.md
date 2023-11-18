@@ -47,4 +47,3 @@ Contribuições são sempre bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
 
-## Licença
